@@ -1,0 +1,19 @@
+#test{
+    font-family: 'Comic Sans MS';
+    color: darkgreen;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
+body{
+    background-color: #222222;
+}
+#linkcolor{
+    color: white;
+}
+#wiplinkcolor{
+    color: rgb(255, 0, 0);
+}
+#whiteoutline{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
